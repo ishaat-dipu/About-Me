@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web Developement](https://github.com/SZanlongo/vanishing-point-detection)
 
-- 🌱 I’m currently learning **Python,Opencv,Tensorflow,Pytorch,Django,Tkinter**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **ishaat48@gmail.com**
 
