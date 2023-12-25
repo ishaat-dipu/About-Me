@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaat171&label=Profile%20views&color=0e75b6&style=flat" alt="ishaat171" /> </p>
 
-- 🔭 I’m currently working on [Computer vision and Deep Learning](https://github.com/SZanlongo/vanishing-point-detection)
+- 🔭 I’m currently working on [Web Developement](https://github.com/SZanlongo/vanishing-point-detection)
 
 - 🌱 I’m currently learning **Python,Opencv,Tensorflow,Pytorch,Django,Tkinter**
 
